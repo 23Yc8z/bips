@@ -54,4 +54,4 @@ Thus, given a "m" master private key, the hierarchically generated symmetric enc
 * [[bip-0032.mediawiki|BIP32 - Hierarchical Deterministic Wallets]]
 * [[bip-0043.mediawiki|BIP43 - Purpose Field for Deterministic Wallets]]
 * [[bip-0044.mediawiki|BIP44 - Multi-Account Hierarchy for Deterministic Wallets]]
-* [[bip-0281.mediawiki|BIP44 - Hierarchical Deterministic Metanet ROOT nodes]]
+* [[bip-0281.mediawiki|BIP281 - Hierarchical Deterministic Metanet ROOT nodes]]
